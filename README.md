@@ -4,8 +4,6 @@
 
 🌐 **Live Website:** [https://ekansh-portfolio-webpage.vercel.app/](https://ekansh-portfolio-webpage.vercel.app/)
 
-An award-winning editorial personal portfolio for **Ekansh Bansal**, 2nd-Year Computer Science and Engineering student at **Mirai School of Technology**. Built with React, Vite, and Vanilla CSS, drawing creative direction from [Sarthak Sharma's Portfolio](https://sarthak-sharma-portfolio-six.vercel.app/) and [Christen Dijoux](https://christendijoux.com/).
-
 ---
 
 ## 🌟 Key Features
